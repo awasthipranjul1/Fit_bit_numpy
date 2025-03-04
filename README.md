@@ -11,4 +11,5 @@ These insights from the user data can help business make customer oriented decis
 
 
 Let's first look at the data we have gathered.
+
 <img width="489" alt="fitbit" src="https://github.com/user-attachments/assets/6b31f037-dac7-4a9b-937c-fae5d010d3be" />
